@@ -31,6 +31,12 @@ Welcome to **Day 40** of our Java Backend Bootcamp! Today was all about **Java T
 👉 [COMMING SOON: ZOOM RECORDING LINK HERE]
 
 ---
+## 📂 Live Boards
+[Day 40: Agenda](https://docs.zoom.us/doc/SGXAP2KsRk2AowaH7RwRRA)
+[Can a thread go from Blocked or Waiting directly to Running?](https://zoom.us/wb/doc/8i4ylghiTBSY6k-On_EsNg)
+[Thread Lifecycle Diagram (Excalidraw)](https://media.geeksforgeeks.org/wp-content/uploads/20240318155846/Lifecycle-and-States-of-a-Thread-in-Java-1.png)
+
+---
 
 ## 🧪 Practice Exercises
 
