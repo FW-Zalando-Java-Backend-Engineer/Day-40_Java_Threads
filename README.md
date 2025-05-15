@@ -41,7 +41,7 @@ Includes:
 - Thread-safe data access
 - Testing concurrency
 
-👉 [EXERCISE GITHUB LINK HERE]
+👉 [Logging / Audit Trail Writer (Simulation)](https://github.com/FW-Zalando-Java-Backend-Engineer/Logging-Audit-Trail-Writer)
 
 ---
 
